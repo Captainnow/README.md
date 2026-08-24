@@ -15,7 +15,7 @@
 
 ## ⚡ What I Build
 
-| 🏥 Healthcare AI | 📊 Data Engineering | 🦾 Biomedical Devices | 🌐 Full-Stack SaaS |
+| 🏥 Healthcare AI | Data Analysis | 🦾 Biomedical Devices | 🌐 Full-Stack SaaS |
 |---|---|---|---|
 | Patient risk stratification, clinical decision support, rehabilitation analytics | ETL pipelines, BI dashboards, predictive modeling, KPI systems | Myoflex bionic arm, ACL wearable sensor | Rehab platform, skin-lesion classifier, automated PSV pipelines |
 

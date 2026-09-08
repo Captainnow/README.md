@@ -114,6 +114,8 @@
 **B.Tech — Biomedical Engineering · Data Science Specialization**
 Karunya Institute of Technology and Sciences, Coimbatore `2022 – 2026`
 
+10th & 12th - Kendriya Vidyalaya Wellington 
+
 ---
 
 ## 🤝 Open To

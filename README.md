@@ -1,9 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Captainnow/Captainnow/main/banner_dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Captainnow/Captainnow/main/banner_light.svg">
-  <img src="https://raw.githubusercontent.com/Captainnow/Captainnow/main/banner_dark.svg" alt="Karthikeyan — Biomedical Engineer x Data Analyst">
+  <img src="https://raw.githubusercontent.com/Captainnow/Captainnow/main/banner_light.svg" alt="Karthikeyan — Biomedical Engineer x Data Analyst">
 </picture>
 
 </div>

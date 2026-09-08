@@ -1,17 +1,12 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:134E4A,100:2DD4BF&height=200&section=header&text=V.Karthikeyan&fontColor=E2F8F5&fontSize=42&animation=fadeIn&fontAlignY=35)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=26&duration=2800&pause=1200&color=2DD4BF&center=true&vCenter=true&width=680&lines=Data+Analyst+%7C+Manager+at+Rapha+MedTech;Biomedical+Engineer+%2B+Data+Analyst;Boeing+Build+4.0+National+Winner+%F0%9F%8F%86)](https://github.com/Captainnow)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=2DD4BF)](https://linkedin.com/in/vkarthikeyan-raphamedtech)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=2DD4BF)](https://vkarthikeyan-raphamedtec-portfolio-ten.vercel.app)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=2DD4BF)](mailto:karthikeyan6912@gmail.com)
-[![Location](https://img.shields.io/badge/Tamil%20Nadu%2C%20India-0D1117?style=for-the-badge&logo=googlemaps&logoColor=2DD4BF)](https://maps.google.com/?q=Tamil+Nadu,India)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Captainnow/Captainnow/main/banner_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Captainnow/Captainnow/main/banner_light.svg">
+  <img src="https://raw.githubusercontent.com/Captainnow/Captainnow/main/banner_dark.svg" alt="Karthikeyan — Biomedical Engineer x Data Analyst">
+</picture>
 
 </div>
-
-
 
 ## ⚡ What I Build
 
@@ -114,8 +109,6 @@
 > Novel textile-integrated RF sensing platform for rehabilitation monitoring, enabling advanced musculoskeletal health assessment through flexible electronics.
 
 ---
-
-
 
 ## 🎓 Education
 
